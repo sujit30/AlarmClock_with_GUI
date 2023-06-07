@@ -5,3 +5,4 @@ What I did was just took the data(time to wake up) from the user using tkinter a
 It's that simple!!!
 Output:
 ![image](https://github.com/sujit30/AlarmClock_with_GUI/assets/135633851/c0abfaab-64a4-425a-b3ab-9b09cabe9789)
+#HaveFunCoding!!
